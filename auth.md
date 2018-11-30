@@ -1,0 +1,17 @@
+token:
+
+eyJraWQiOiI1OGRhOWI1MDVjMGE1YTAwMDFlZmIzMDRiMDE1ODEyYjY5ZmE0OGY4ODEyYzY5MzI4OTY4MDliMiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1Nzg1MjQwMC02NjUwLTQ2NmItYmRjMi1iYzEyOGU2Y2NhY2EiLCJzY3AiOlsiZGVmYXVsdCJdLCJleHAiOjE1NDQ5ODc5MjYsImlhdCI6MTU0MzUxNjY5NywiY2lkIjoiUHZwUFRITzJUeFhCMnkxMUhsbEciLCJwb2xpY3kiOiI1YzAwMzIxMjRlYWI2NTAwMDE2YjBjMzQifQ.pnYueJeJvWGh90NDsBQzrpoggCmojCi3FiuzKOHKS9GNPfRMBmwaqmEDjlWsOreUgBXI9m973YOA7vbRdX48wg
+
+
+utterances
+
+ask starpaas to get me tea
+ask starpaas to get me quarterly sales
+ask starpaas to get me income to date
+ask starpaas to get me customer Papa John's Pizza
+ask starpaas to get me partner ISS
+
+
+ask starpaas to lookup sales for last quarter
+ask starpaas to lookup sales for last quarter
+
